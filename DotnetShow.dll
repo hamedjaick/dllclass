@@ -1,0 +1,206 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Cources
+{
+    public class BSE
+    {
+        public string[] FstSemCources()
+        {
+            string[] Cources = new string[5];
+
+            Cources[0] = "Computer Programming";
+            Cources[1] = "Computing Fundamental";
+            Cources[2] = "Islamiat";
+            Cources[3] = "Physics";
+            Cources[4] = "English 1";
+
+            return Cources;
+        }
+        public string[] SecSemCources()
+        {
+            string[] Cources = new string[5];
+
+            Cources[0] = "OOP";
+            Cources[1] = "English 2";
+            Cources[2] = "Discrete Structure";
+            Cources[3] = "Sociology";
+            Cources[4] = "Pak Studies";
+
+            return Cources;
+        }
+        public string[] TrdSemCources()
+        {
+            string[] Cources = new string[5];
+
+            Cources[0] = "Data Structures";
+            Cources[1] = "Calculas";
+            Cources[2] = "Electronics";
+            Cources[3] = "ISE";
+            Cources[4] = "French";
+
+            return Cources;
+        }
+        public string[] FrtSemCources()
+        {
+            string[] Cources = new string[5];
+
+            Cources[0] = "4th S1";
+            Cources[1] = "4th S2";
+            Cources[2] = "4th S3";
+            Cources[3] = "4th S4";
+            Cources[4] = "4th S5";
+
+            return Cources;
+        }
+        public string[] FftSemCources()
+        {
+            string[] Cources = new string[5];
+
+            Cources[0] = "5th S1";
+            Cources[1] = "5th S2";
+            Cources[2] = "5th S3";
+            Cources[3] = "5th S4";
+            Cources[4] = "5th S5";
+
+            return Cources;
+        }
+        public string[] SixSemCources()
+        {
+            string[] Cources = new string[5];
+
+            Cources[0] = "6th S1";
+            Cources[1] = "6th S2";
+            Cources[2] = "6th S3";
+            Cources[3] = "6th S4";
+            Cources[4] = "6th S5";
+
+            return Cources;
+        }
+        public string[] SvnSemCources()
+        {
+            string[] Cources = new string[5];
+
+            Cources[0] = "7th S1";
+            Cources[1] = "7th S2";
+            Cources[2] = "7th S3";
+            Cources[3] = "7th S4";
+            Cources[4] = "7th S5";
+
+            return Cources;
+        }
+        public string[] EgtSemCources()
+        {
+            string[] Cources = new string[5];
+
+            Cources[0] = "8th S1";
+            Cources[1] = "8th S2";
+            Cources[2] = "8th S3";
+            Cources[3] = "8th S4";
+            Cources[4] = "8th S5";
+
+            return Cources;
+        }
+    }
+    public class BBA
+    {
+        public string[] FstSemCources()
+        {
+            string[] Cources = new string[5];
+
+            Cources[0] = "Marketing";
+            Cources[1] = "Finance";
+            Cources[2] = "Islamiat";
+            Cources[3] = "Physics";
+            Cources[4] = "English 1";
+
+            return Cources;
+        }
+        public string[] SecSemCources()
+        {
+            string[] Cources = new string[5];
+
+            Cources[0] = "Math";
+            Cources[1] = "English 2";
+            Cources[2] = "Discrete Structure";
+            Cources[3] = "Sociology";
+            Cources[4] = "Pak Studies";
+
+            return Cources;
+        }
+        public string[] TrdSemCources()
+        {
+            string[] Cources = new string[5];
+
+            Cources[0] = "Calculas";
+            Cources[1] = "Calculas";
+            Cources[2] = "Electronics";
+            Cources[3] = "Accounting";
+            Cources[4] = "French";
+
+            return Cources;
+        }
+        public string[] FrtSemCources()
+        {
+            string[] Cources = new string[5];
+
+            Cources[0] = "4th S1";
+            Cources[1] = "4th S2";
+            Cources[2] = "4th S3";
+            Cources[3] = "4th S4";
+            Cources[4] = "4th S5";
+
+            return Cources;
+        }
+        public string[] FftSemCources()
+        {
+            string[] Cources = new string[5];
+
+            Cources[0] = "5th S1";
+            Cources[1] = "5th S2";
+            Cources[2] = "5th S3";
+            Cources[3] = "5th S4";
+            Cources[4] = "5th S5";
+
+            return Cources;
+        }
+        public string[] SixSemCources()
+        {
+            string[] Cources = new string[5];
+
+            Cources[0] = "6th S1";
+            Cources[1] = "6th S2";
+            Cources[2] = "6th S3";
+            Cources[3] = "6th S4";
+            Cources[4] = "6th S5";
+
+            return Cources;
+        }
+        public string[] SvnSemCources()
+        {
+            string[] Cources = new string[5];
+
+            Cources[0] = "7th S1";
+            Cources[1] = "7th S2";
+            Cources[2] = "7th S3";
+            Cources[3] = "7th S4";
+            Cources[4] = "7th S5";
+
+            return Cources;
+        }
+        public string[] EgtSemCources()
+        {
+            string[] Cources = new string[5];
+
+            Cources[0] = "8th S1";
+            Cources[1] = "8th S2";
+            Cources[2] = "8th S3";
+            Cources[3] = "8th S4";
+            Cources[4] = "8th S5";
+
+            return Cources;
+        }
+    }
+}
